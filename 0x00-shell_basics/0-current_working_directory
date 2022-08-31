@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/5821568238147928065536012380693083462938_5/205/110789/0x00-shell_basics"
+realpath "$0"
